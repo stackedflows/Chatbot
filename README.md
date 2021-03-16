@@ -10,6 +10,8 @@
  
 # Install and Run
 
+This will be a basic guide on how to get your bot running, for the programmable version of the tutorial see the end of this page
+
 ## Install Main Dependencies
 1) [Unity](https://store.unity.com/?_ga=2.14326334.805111453.1614788386-1407468680.1601549993#plans-individual)
 2) [RASA](https://rasa.com/docs/rasa/installation/)
@@ -47,5 +49,5 @@
  ## Run it on Android and chat to the thing in your device!
 
 ### Programming the ChatBot
-1) The documentation that describes how to program the chatbot can be found [here](https://rasa.com/docs/rasa/training-data-format).
+1) The documentation that describes how to program the chatbot can be found [here](https://rasa.com/docs/rasa/training-data-format)
 2) You will need to re-do the above tutorial, and adjust the "RASA" step in order for your programmed bot to work
