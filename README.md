@@ -2,7 +2,7 @@
 
 (Speech to text -> ChatBot Neural Network -> Text to speech)
 
- Android Build
+ In this guide, I will walk you through how to create a local server with the ChatBot on it, and then connect to the local server with you Android.
 
  Rasa-Unity Connection is well documented [here](https://medium.com/analytics-vidhya/integrating-rasa-open-source-chatbot-into-unity-part-1-the-connection-9ba582c804cd)
  
